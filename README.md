@@ -36,7 +36,7 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-JavaScript TypeScript Docker React.js Next JS Vue.js Framer TailwindCSS Vite Node.js Express.js NestJS WordPress Elementor Python Apache Kafka Nx Apollo-GraphQL MySQL Postgres GitHub Actions Redis Netlify Cloudflare Debian AmazonDynamoDB MongoDB Firebase Alpine Linux Ubuntu AWS cypress Jest Nginx Terraform SonarQube Jira
+JavaScript TypeScript Docker React.js Next JS Vue.js Framer TailwindCSS Vite Node.js Express.js NestJS WordPress Elementor Python Apollo-GraphQL MySQL Postgres GitHub Actions Redis Netlify Debian AmazonDynamoDB MongoDB Firebase Alpine Linux Ubuntu AWS Jest Nginx Jira
 
 I am a Full Stack Developer with 5 years of experience specializing in the MERN stack. My expertise lies in architecting scalable, high-performance web applications, focusing on server-side development, UI/UX design, and efficient database management. I am passionate about building innovative digital solutions that enhance user experiences.
 
@@ -44,9 +44,4 @@ I am a Full Stack Developer with 5 years of experience specializing in the MERN 
 
 🚀 My skills include React.js, Node.js, TypeScript, MongoDB, and AWS. I have a strong command of modern development tools and practices, including Docker, Jest, and CI/CD pipelines.
 
-🌟 Some of my notable projects include a React.js form builder library used by 120k+ users and saved approx $6000/month infra cost by optimizing the existing cloud infrastructure.
-
 🎯 I'm always open to new challenges and opportunities in web development and software engineering.
-
-Personal Project
-Chrome Extension Youtube Timestamp Saver currently has Chrome Web Store Downloads You can download the extension by clicking the chrome store icon. Youtube Timestamp Saver
